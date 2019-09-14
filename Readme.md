@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Анастасия Ильина](https://up.htmlacademy.ru/javascript/18/user/920759).
-* Наставник: Сергей Рубец.
+* Наставник: [Сергей Рубец](https://up.htmlacademy.ru/javascript/18/user/41580).
 
 ---
 
